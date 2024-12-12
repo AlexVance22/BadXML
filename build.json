@@ -1,0 +1,9 @@
+{
+    "project": "xml",
+    "cpp": "c++17",
+    "incdirs": [ "src/", "include/xml/" ],
+    "dependencies": [],
+
+    "include-public": "include/xml/"
+}
+
